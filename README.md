@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/XI-Ccwkxf64AAAAd/%D1%88%D0%B0%D0%B9%D0%BB%D1%83%D1%88%D0%B0%D0%B9-cat-smurf.gif" width="500px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*50gShCoVJvKg25EQ7ugFqw.gif" width="500px"/>
 </div>
 
 ###
@@ -21,9 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch"  alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>
-  
- 
 </div>
 
 ___
