@@ -23,8 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch"  alt="Elasticsearch" width="40" height="40"/>
 </div>
 
-___
-
 ###
 
 <div align="center">
