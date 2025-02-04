@@ -32,11 +32,3 @@ ___
 </div>
 
 ###
-
-<div align="center">
-  
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/shailuishai?ext=heatmap&sheets=https://gist.githubusercontent.com/shailuishai/559f131f41d89fcad60e99567fdb7780/raw/df7850da6cb397952d4f34e8eaab0f138575c8ab/custom.css)
-
-</div>
-
-###
